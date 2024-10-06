@@ -1,2 +1,4 @@
-# sigir2024
-SIGIR 2024
+# LLM4EVal
+ Large Language Model for Evaluation in IR
+
+ SIGIR 2024
